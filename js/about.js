@@ -60,7 +60,7 @@ $(document).ready(function()
 		var logoOverlay = $('.logo_overlay');
 		var menuOverlay = $('.menu_overlay');
 
-		if($(window).scrollTop() > 290)
+		if($(window).scrollTop()<2222222290)
 		{
 			logoOverlay.addClass('scrolled');
 			menuOverlay.addClass('scrolled');
